@@ -1,1 +1,44 @@
-
+{
+  "places": [
+    { 
+      "id": 0, 
+      "name": "Santorini", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    },
+    { 
+      "id": 0, 
+      "name": "Naxos", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    }, 
+    { 
+      "id": 0, 
+      "name": "Rodas", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    },
+    { 
+      "id": 0, 
+      "name": "Myconos", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    },
+    { 
+      "id": 0, 
+      "name": "Olimpia", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    },
+  ],
+  "users": [
+    { 
+      "email": "ebm7pc@gmail.com",
+      "user": "eduardo",
+      "password": "123"
+    },
+    {
+      "email", 
+      "user": "e",
+      "password": "e"
+    }
+  ],
+  "profile": {
+    "name": "ebm7pc"
+  }
+}
