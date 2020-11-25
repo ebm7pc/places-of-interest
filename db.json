@@ -2,29 +2,29 @@
   "places": [
     { 
       "id": 1, 
-      "name": "Santorini", 
-      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
+      "name":"Santorini", 
+      "description":"Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
     },
     { 
       "id": 2, 
-      "name": "Naxos", 
-      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
+      "name":"Naxos", 
+      "description":"Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
     }, 
     { 
       "id": 3, 
-      "name": "Rodas", 
-      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
+      "name":"Rodas", 
+      "description":"Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
     },
     { 
       "id": 4, 
-      "name": "Myconos", 
-      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
+      "name":"Myconos", 
+      "description":"Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
     },
     { 
       "id": 5, 
-      "name": "Olimpia", 
-      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
-    },
+      "name":"Olimpia", 
+      "description":"Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia"
+    }
   ],
   "users": [
     { 
