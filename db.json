@@ -1,63 +1,46 @@
 {
-  "city": {
-    "name": "Medellin"
-  },
-  "poi": [
+  "places": [
     { 
       "id": 1, 
-      "title": "Plaza Botero", 
-      "description": "La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/3a/7a/photo4jpg.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"
+      "name": "Santorini", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
     },
     { 
       "id": 2, 
-      "title": "Cerro Nutibarra", 
-      "description": "El Cerro Nutibara tambień conocido como Pueblito Paisa es una pequeña formación montañosa ubicada en la ciudad colombiana de Medellín, en el centro geográfico del Valle de Aburrá, en la margen occidental del río Medellín, en medio de la zona urbana, y es uno de los pocos ecosistemas que se conservan en localidad.", 
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/b0/af/0a/pueblito-paisa.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/b0/af/0a/pueblito-paisa.jpg"
+      "name": "Naxos", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
     }, 
     { 
       "id": 3, 
-      "title": "Plaza Botero 2", 
-      "description": "**La Plaza de Botero o Plaza de las Esculturas, tiene un área de 7.500 metros cuadrados para el disfrute en donde se pueden apreciar 23 esculturas monumentales donadas por el Maestro Fernando Botero. Está situada en uno de los lugares más tradicionales y característicos de la ciudad: cerca del Parque de Berrío, el Museo de Antioquia, el Palacio de la Cultura y el Hotel Nutibara; convirtiéndolo no sólo en el epicentro del arte y la cultura de Medellín, sino también, en un lugar de paso obligado para los visitantes.",
-      "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/87/3a/7a/photo4jpg.jpg",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/87/3a/7a/photo4jpg.jpg"
-    }
-  ],
-  "comments": [
-    { 
-    "id": 1, 
-    "body": "un museo a cielo abierto, increible para apreciar las esculturas de botero en medellin, junto con sus vendedores ambulantes y carros de bunuelos y arepas lo hace muy detacable",
-    "qualification": 5,
-    "poiId": 1 
+      "name": "Rodas", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
     },
     { 
-      "id": 2, 
-      "body": "Ubicado en el centro donde encontramos estas hermosas esculturas y además otras atracciones como artistas callejeros... Cualquier día es bueno para hacer esta visita... Muy recomendable para combinar con otros tour y recorridas !", 
-      "qualification": 4,
-      "poiId": 1 
+      "id": 4, 
+      "name": "Myconos", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
     },
     { 
-      "id": 3, 
-      "body": "El pueblito paisa es una representacion de pueblo tipico antioqueño y esta alli para recordarnos una hermosa epoca y lo bonita que era la arquitectura colonial", 
-      "qualification": 5,
-      "poiId": 2 
-    }
+      "id": 5, 
+      "name": "Olimpia", 
+      "description":   "Aunque hay muchas islas que visitar en Grecia, las más conocidas de todas son las que forman el archipiélago de Santorini. Las fachadas blancas – y dinteles y puertas azules – de las casas de los pueblos que se asoman a acantilados que mueren en el mar, aparecen en cualquier postal de lugares turísticos de Grecia",
+    },
   ],
   "users": [
     { 
-      "id": 1, 
-      "user": "pepito",
-      "password": "1234"
+	  "id": "1",
+      "email": "ebm7pc@gmail.com",
+      "user": "eduardo",
+      "password": "123"
     },
     {
-      "id": 2, 
-      "user": "juanito",
-      "password": "1234"
+      "id": "2",
+	  "email":"e", 
+      "user": "e",
+      "password": "e"
     }
   ],
   "profile": {
-    "name": "jaibercom"
+    "name": "ebm7pc"
   }
 }
